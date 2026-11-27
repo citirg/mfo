@@ -1,13 +1,8 @@
-# MFO — Mudik Flow Optimization
+# MFO
 
-Minimal Python implementation of **Mudik Flow Optimization (MFO)**, a
-human-behavior-inspired metaheuristic based on the collective movement of
-travellers during the Indonesian *mudik* (homecoming) season, applied to
-weighted sum rate (WSR) maximization in downlink multicarrier NOMA.
-
-Each agent (1) moves toward the destination (global best), (2) follows the
-group flow (population mean), and (3) avoids congestion: a density factor
-`C_i` switches crowded agents from exploitation to exploration.
+Minimal Python implementation of **MFO**, a population-based metaheuristic,
+with an example of weighted sum rate (WSR) maximization in downlink
+multicarrier NOMA.
 
 ## Files
 
